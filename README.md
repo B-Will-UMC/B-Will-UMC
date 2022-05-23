@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @B-Will-UMC
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning basics
-- 💞️ I’m looking to collaborate on security
+- 🌱 I’m currently learning what ever I can
+- 💞️ I’m looking to collaborate on security related things
 - 📫 How to reach me would be on Git
 
 <!---
